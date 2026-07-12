@@ -1,0 +1,20 @@
+# Simulator generated files and folders
+/simulation/qcache/
+/simulation/work/
+/simulation/vsim.wlf
+*.wlf
+transcript
+modelsim.ini
+
+# Vivado generated files
+/vivado/.Xil/
+/vivado/**/*.jou
+/vivado/**/*.log
+/vivado/**/*.str
+/vivado/**/*.os
+
+# Temporary files
+*.tmp
+*.bak
+setup.bat
+setup.ps1
